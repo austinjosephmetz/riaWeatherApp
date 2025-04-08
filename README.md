@@ -1,4 +1,4 @@
-# riaWeatherApp
+# Ria Weather App -- Austin Metz
 Weather app sample using Vue and Tailwind for styling
 
 to run clone the repo onto a system with NPM and within riaWeatherApp/riaWeatherAppAustinMetz/ run the following commands
