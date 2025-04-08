@@ -3,7 +3,7 @@ Weather app sample using Vue and Tailwind for styling
 
 to run clone the repo onto a system with NPM and within riaWeatherApp/riaWeatherAppAustinMetz/ run the following commands
 
-npm install
+npm install <br/>
 npm run dev
 
 this will run the application on a localhost url that you can access in your browser and view the current version of the application.
